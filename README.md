@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreyansh Baranwal</h1>
-<h3 align="center">AWS | GCP | DevOps | Developer</h3>
+<h3 align="center">AWS | GCP | DevOps | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyansh2412&label=Profile%20views&color=0e75b6&style=flat" alt="sreyansh2412" /> </p>
 
