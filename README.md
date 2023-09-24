@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sreyanshbaranwal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ONc0K0sFUr1gETYfiAGsaxvLoLLTt1nR/view?usp=sharing](https://drive.google.com/file/d/1ONc0K0sFUr1gETYfiAGsaxvLoLLTt1nR/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1jQLKxLV1cM684ISRV3D_48CdbzOF9CJ2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
