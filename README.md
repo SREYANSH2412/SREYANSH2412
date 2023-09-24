@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreyansh2412" alt="sreyansh2412" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [sreyanshbaranwal.me/sb](sreyanshbaranwal.me/sb)
+- 👨‍💻 All of my projects are available at [click here](http://sreyanshbaranwal.me/sb/)
 
 - 📫 How to reach me **sreyanshbaranwal@gmail.com**
 
