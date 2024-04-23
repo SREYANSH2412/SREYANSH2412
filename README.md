@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyansh2412&label=Profile%20views&color=0e75b6&style=flat" alt="sreyansh2412" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [click here](http://sreyanshbaranwal.me/sb/)
+- 👨‍💻 All of my projects are available at [click here](http://sreyanshbaranwal.tech)
 
 - 📫 How to reach me **sreyanshbaranwal@gmail.com**
 
